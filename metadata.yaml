@@ -1,0 +1,34 @@
+_repo: The-Blue-Flower_1603
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Van
+    - Dyke, Henry I. Van
+    - Dyke, Henry Jackson Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: The blue flower (from the German of Novalis] -- The source. -- The mill.
+  -- Spy rock.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: The blue flower - The source -- The mill -- Spy rock -- Wood-magic
+  -- The other wise men -- A handful of clay -- The lost word -- The first Christmas-tree.
+title: The Blue Flower
+url: http://www.gutenberg.org/ebooks/1603
